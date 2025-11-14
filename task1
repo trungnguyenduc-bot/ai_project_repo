@@ -1,1 +1,1 @@
-abc
+Hotfix: Resolve production API timeout errors by optimizing request handling and adjusting server-side timeouts. Improves stability, prevents stalled responses, and restores reliable performance under peak load.
